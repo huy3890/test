@@ -1,6 +1,2 @@
-<<<<<<< HEAD
 test github
 abcd 1234
-2016
-=======
->>>>>>> parent of f9761b5... huypham.text is modified
